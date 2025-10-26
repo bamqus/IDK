@@ -5,6 +5,6 @@
 3. Aleksandra Rzemińska
    - Git Account Name: AleksandraRzeminska
    - Task Number:
-4. Ania Konopka
+4. Anna Konopka
    - Git Account Name: Luc15l
    - Task Number:
